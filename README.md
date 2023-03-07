@@ -9,7 +9,7 @@
 
 - :zap: Хочу освоить новую профессию и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Mark_Nmg_Novikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mark_Nmg_Novikov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Mark_Nmg_Novikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mark_Nmg_Novikov) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Gmail&logoColor=white)](mailto:nomoregods@yandex.ru)
 
 ---
 
