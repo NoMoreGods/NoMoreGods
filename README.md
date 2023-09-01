@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с курсов Яндекс Практикума. В настоящий момент работаю ведущим инженером ПТО в топ 3 дорожно-строительной фирме страны.
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с курсов Яндекс Практикума.
 
 - :zap: Хочу освоить новую профессию и найти работу.
 
