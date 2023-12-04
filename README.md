@@ -31,6 +31,15 @@
 
 ---
 
+### 💻 Leetcode:
+[![leetcode](https://leetcode-stats-six.vercel.app/api?username=Nomoregods&theme=dark)](https://github.com/Nomoregods/leetcode-stats)
+
+
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/NoMoreGods/badges/large)
+
+---
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
@@ -80,14 +89,6 @@
 
 ---
 
-
-
-### 💻 Leetcode:
-[![leetcode](https://leetcode-stats-six.vercel.app/api?username=Nomoregods&theme=dark)](https://github.com/Nomoregods/leetcode-stats)
-
-
-### 💻 Codewars:
-![codewars](https://www.codewars.com/users/NoMoreGods/badges/large)
 
 ### ⚙️ GitHub статистика:
 
