@@ -3,13 +3,13 @@
 
 ---
 
-### :technologist: Обо мне:
+👨‍💻 Обо мне:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с курсов Яндекс Практикума.
 
 - :zap: Хочу освоить новую профессию и найти работу.
 
-- :mailbox_with_mail: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Mark_Nmg_Novikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mark_Nmg_Novikov)
+- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Mark_Nmg_Novikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mark_Nmg_Novikov)
 <!-- -  [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Gmail&logoColor=white)](mailto:nomoregods@yandex.ru) -->
 
 ---
