@@ -3,13 +3,16 @@
 
 ---
 
+
 👨‍💻 Обо мне:
 
 Я разработчик интерфейсов<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 Сейчас базируюсь в Крыму.
 
+
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Mark_Nmg_Novikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mark_Nmg_Novikov)
 <!-- -  [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Gmail&logoColor=white)](mailto:nomoregods@yandex.ru) -->
+
 
 ---
 ### 💻 Пройденные курсы:
