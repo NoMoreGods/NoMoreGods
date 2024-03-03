@@ -41,6 +41,19 @@
 | **Стек: HTML, CSS, JavaScript, React, Rest API, NodeJS, express, mongo, mongoose, bcryptjs, body-parser, CORS.**  |                   | 
 | 3. Дипломный проект: одностраничное приложение аналог Кинопоиска с регистрацией пользователей, поиском фильмов, добавлением в избранное.
 |**Стек: HTML, CSS модули, JavaScript, React, Rest API, NodeJS, express, mongo, mongoose, nginx, celebrate, helmet, bcryptjs, body-parser, CORS.** |                   |
+| Скиллы
+● Languages: JavaScript (ES6), TypeScript
+● Frameworks: React.js, Next.js, Node.js.
+● State Managers: Redux, Redux-thunk, Redux-toolkit, React-query
+● Linters: ESLint, Prettier
+● API: HTTP/HTTPS, fetch, Axios, REST API, OAuth, JWT
+● Version Control: Git flow, GitHub
+● Build: Webpack, NPM, PNPM
+● CI/CD: GitLab CI/CD
+● Development: WebStorm, Figma, Postman
+● Testing: React Testing Library, Jest
+Дополнительно:
+- Решено 400+ задач на LeetCode и 150+ задач на CodeWars |                   |
 
 
 ---
