@@ -43,12 +43,12 @@
 |**Стек: HTML, CSS модули, JavaScript, React, Rest API, NodeJS, express, mongo, mongoose, nginx, celebrate, helmet, bcryptjs, body-parser, CORS.** |                   |
 | ----------------------------------------------------------------------------------------------------------------------------| :------------: |
 | **Примеры работ:**
-| react-pizza-nmg.vercel.app/
-| - **Стек: TypeScript, React, Redux Toolkit, React Router,Axios + Fetch, CSS-Modules / SCSS, React Content Loader (скелетон).**           |                   |  
-| memory-game-nmg.vercel.app/
-| - **Стек: TypeScript, React, CSS**           |                   |  
-| drawing-app-canvas.vercel.app
-| - **Стек: Canvas, JS, HTML, CSS**           |                   |  
+| https://react-pizza-nmg.vercel.app/
+ - **Стек: TypeScript, React, Redux Toolkit, React Router,Axios + Fetch, CSS-Modules / SCSS, React Content Loader (скелетон).**           |                   |  
+| https://memory-game-nmg.vercel.app/
+ - **Стек: TypeScript, React, CSS**           |                   |  
+| https://drawing-app-canvas.vercel.app
+ - **Стек: Canvas, JS, HTML, CSS**           |                   |  
 | **Скиллы**
 ● Languages: JavaScript (ES6), TypeScript
 ● Frameworks: React.js, Next.js, Node.js.
