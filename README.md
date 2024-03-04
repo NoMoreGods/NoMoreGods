@@ -18,7 +18,7 @@
 
 | Опыт работы:                                                    | Дата              |
 | ----------------------------------------------------------------------------------------------------------------------------| :------------: |
-|**Яндекс. Команда Яндекс Директ**                                | **06/2023 - 12/2023** |
+|**Яндекс. Команда Яндекс Директ**                                | **06/2023   12/2023** |
 | https://direct.yandex.ru/                                       |                |
 | - Разрабатывал новые компоненты и улучшал существующие, внедрял и удалял фиче, писал PixelPerfect, Jest, Hermion тесты.                        |                   |
 | - Принимал участие в оценке задач, планировании времени согласно Agile. |                   |
@@ -26,14 +26,14 @@
 | **Стек: TypeScript, React, Redux Toolkit, Jest, Hermione.**|                   |
 | Причина увольнения – попал под сокращение (внутренние перестановки из-за того, что Крым находится под санкциями). |                   |
 | ----------------------------------------------------------------------------------------------------------------------------| :------------: |
-| **АО ВАД. Разработчик интерфейсов.**                            | **10/2021 - 05/2023** |
+| **АО ВАД. Разработчик интерфейсов.**                            | **10/2021   05/2023** |
 | https://zaovad.ru/                                              |                   |
 | - Разработка новых пользовательских компонентов и улучшение существующих интерфейсов.                         |                   |
 | - Участие во всех этапах разработки – от проектирования до тестирования и внедрения.              |                   |
 | - Помощь команде в повышении эффективности взаимодействия с пользователями и улучшении пользовательского опыта.              |                   |
 | - **Стек: TypeScript, React, Redux Toolkit, Redux Thunk, Jest, Hermione, NodeJS.**           |                   |
 | ----------------------------------------------------------------------------------------------------------------------------| :------------: |
-| **Яндекс Практикум. Курс фронтенд-разработчик.**                | **01/2021 - 09/2021** |
+| **Яндекс Практикум. Курс фронтенд-разработчик.**                | **01/2021   09/2021** |
 | За период учебы работал над тремя проектами.                    |                   |
 | 1. Проект “Путешествие по России”: одностраничный сайт о путешествиях . |                   |
 | **Стек: HTML, CSS, grid layout, flex-box, БЭМ.**               |                   |
@@ -42,26 +42,27 @@
 | 3. Дипломный проект: одностраничное приложение аналог Кинопоиска с регистрацией пользователей, поиском фильмов, добавлением в избранное.
 |**Стек: HTML, CSS модули, JavaScript, React, Rest API, NodeJS, express, mongo, mongoose, nginx, celebrate, helmet, bcryptjs, body-parser, CORS.** |                   |
 | ----------------------------------------------------------------------------------------------------------------------------| :------------: |
-| **Примеры работ:**|                   |
-| https://react-pizza-nmg.vercel.app/ 
-| - **Стек: TypeScript, React, Redux Toolkit, React Router,Axios + Fetch, CSS-Modules / SCSS, React Content Loader (скелетон).**           |                   |  
-| https://memory-game-nmg.vercel.app/ 
+| **В свободное от работы время занимаюсь версткой различных pet-проектов, чтобы постоянно совершенствовать свои навыки. Недавно создал следующие проекты:**|                   |
+| React Pizza (https://react-pizza-nmg.vercel.app/)  
+| - **Стек: TypeScript, React, Redux Toolkit, React Router,Axios + Fetch, CSS-Modules / SCSS, React Content Loader (для создания скелетонов).**           |                   |  
+| Memory Game (https://memory-game-nmg.vercel.app/)
 | - **Стек: TypeScript, React, CSS**           |                   |  
-| https://drawing-app-canvas.vercel.app
+| Drawing App (https://drawing-app-canvas.vercel.app/)
 | - **Стек: Canvas, JS, HTML, CSS**           |                   |  
+| ----------------------------------------------------------------------------------------------------------------------------| :------------: |
 | **Скиллы**
-● Languages: JavaScript (ES6), TypeScript
-● Frameworks: React.js, Next.js, Node.js.
-● State Managers: Redux, Redux-thunk, Redux-toolkit, React-query
-● Linters: ESLint, Prettier
-● API: HTTP/HTTPS, fetch, Axios, REST API, OAuth, JWT
-● Version Control: Git flow, GitHub
-● Build: Webpack, NPM, PNPM
-● CI/CD: GitLab CI/CD
-● Development: WebStorm, Figma, Postman
-● Testing: React Testing Library, Jest
+● Languages: **JavaScript (ES6), TypeScript**
+● Frameworks: **React.js, Next.js, Node.js.**
+● State Managers: **Redux, Redux-thunk, Redux-toolkit, React-query**
+● Linters: **ESLint, Prettier**
+● API: **HTTP/HTTPS, fetch, Axios, REST API, OAuth, JWT**
+● Version Control: **Git flow, GitHub**
+● Build: **Webpack, NPM, PNPM**
+● CI/CD: **GitLab CI/CD**
+● Development: **WebStorm, Figma, Postman**
+● Testing: **React Testing Library, Jest**
 Дополнительно:
-● Решил 400+ задач на LeetCode и 150+ задач на CodeWars|                   |
+● Решил 400+ задач на **LeetCode** и 150+ задач на **CodeWars**|                   |
 
 
 ---
