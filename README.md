@@ -62,7 +62,7 @@
 ● Development: **WebStorm, Figma, Postman**
 ● Testing: **React Testing Library, Jest**
 Дополнительно:
-● Решил 400+ задач на **LeetCode** и 150+ задач на **CodeWars**|                   |
+● Решил **400+** задач на **LeetCode** и **150+** задач на **CodeWars**|                   |
 
 
 ---
