@@ -42,13 +42,13 @@
 | 3. Дипломный проект: одностраничное приложение аналог Кинопоиска с регистрацией пользователей, поиском фильмов, добавлением в избранное.
 |**Стек: HTML, CSS модули, JavaScript, React, Rest API, NodeJS, express, mongo, mongoose, nginx, celebrate, helmet, bcryptjs, body-parser, CORS.** |                   |
 | ----------------------------------------------------------------------------------------------------------------------------| :------------: |
-| **Примеры работ:**
-| https://react-pizza-nmg.vercel.app/
- - **Стек: TypeScript, React, Redux Toolkit, React Router,Axios + Fetch, CSS-Modules / SCSS, React Content Loader (скелетон).**           |                   |  
-| https://memory-game-nmg.vercel.app/
- - **Стек: TypeScript, React, CSS**           |                   |  
+| **Примеры работ:**|                   |
+| https://react-pizza-nmg.vercel.app/ 
+| - **Стек: TypeScript, React, Redux Toolkit, React Router,Axios + Fetch, CSS-Modules / SCSS, React Content Loader (скелетон).**           |                   |  
+| https://memory-game-nmg.vercel.app/ 
+| - **Стек: TypeScript, React, CSS**           |                   |  
 | https://drawing-app-canvas.vercel.app
- - **Стек: Canvas, JS, HTML, CSS**           |                   |  
+| - **Стек: Canvas, JS, HTML, CSS**           |                   |  
 | **Скиллы**
 ● Languages: JavaScript (ES6), TypeScript
 ● Frameworks: React.js, Next.js, Node.js.
