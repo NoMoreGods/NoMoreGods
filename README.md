@@ -41,7 +41,7 @@
 | 3. Дипломный проект: одностраничное приложение аналог Кинопоиска с регистрацией пользователей, поиском фильмов, добавлением в избранное.
 |**Стек: HTML, CSS модули, JavaScript, React, Rest API, NodeJS, express, mongo, mongoose, nginx, celebrate, helmet, bcryptjs, body-parser, CORS.** |                   |
 | ----------------------------------------------------------------------------------------------------------------------------| :------------: |
-| **В свободное от работы время занимаюсь версткой различных pet-проектов, чтобы постоянно совершенствовать свои навыки. Недавно создал следующие проекты:**|                   |
+| **В свободное от работы время занимаюсь версткой различных pet-проектов:**|                   |
 | React Pizza (https://react-pizza-nmg.vercel.app/)  
 | - **Стек: TypeScript, React, Redux Toolkit, React Router,Axios + Fetch, CSS-Modules / SCSS, React Content Loader (для создания скелетонов).**           |                   |  
 | Memory Game (https://memory-game-nmg.vercel.app/)
