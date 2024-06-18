@@ -69,6 +69,7 @@
 ### 💻 Leetcode:
 [![leetcode](https://leetcode-stats-six.vercel.app/api?username=Nomoregods&theme=dark)](https://github.com/Nomoregods/leetcode-stats)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/Nomoregods/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/Nomoregods/leetcode-stats-card)
 
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/NoMoreGods/badges/large)
