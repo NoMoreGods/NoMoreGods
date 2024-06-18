@@ -71,6 +71,8 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/Nomoregods/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/Nomoregods/leetcode-stats-card)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nomoregods?theme=dark&font=Rasa)
+
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/NoMoreGods/badges/large)
 
