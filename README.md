@@ -4,6 +4,13 @@
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Mark_Nmg_Novikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mark_Nmg_Novikov)
 <!-- -  [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Gmail&logoColor=white)](mailto:nomoregods@yandex.ru) -->
 
+---
+
+### 💻 Leetcode:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nomoregods?theme=dark&font=Rasa)
+
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/NoMoreGods/badges/large)
 
 ---
 ### 💻 Мой путь в IT:
@@ -69,15 +76,7 @@
 ● Решил **400+** задач на **LeetCode** и **150+** задач на **CodeWars**|                   |
 
 
----
 
-### 💻 Leetcode:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nomoregods?theme=dark&font=Rasa)
-
-### 💻 Codewars:
-![codewars](https://www.codewars.com/users/NoMoreGods/badges/large)
-
----
 
 ### 🤝 Социальные сети:
 
